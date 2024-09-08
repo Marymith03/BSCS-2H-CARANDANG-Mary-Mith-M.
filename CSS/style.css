@@ -1,0 +1,33 @@
+body{
+    background-image: url(Cafe.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+h1 {
+   text-align: center;
+   color: white; 
+}
+h2,  h4{
+    color: white;
+    background-color: rgb(100, 60, 17);
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+h3 {
+    color: white;
+    background-color: rgb(100, 60, 17);
+    margin-right: 80%;
+    text-indent: 30%;
+    margin-left: 5%;
+} 
+.Item p{
+    display: inline-block;
+    margin: 2px 50px;
+    font-weight: bold;
+}
+.Flavor {
+    width: 20%;
+    text-indent: 10%;
+}
